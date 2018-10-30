@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="19" timestamp="2018-10-30T21:14:11" time="55.229" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="91ba69f4448840c23646d9f4460023d4"/>
+      <property name="suiteName" value="19"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+    <testcase classname="chrome.19" name="I am on the home page9" time="55.707"/>
+    <testcase classname="chrome.19" name="I navigate to Premier league page12" time="37.564"/>
+    <testcase classname="chrome.19" name="I place a 0.05 bet for any first team to Win at home13" time="21.347"/>
+    <testcase classname="chrome.19" name="I should see proper return amount14" time="1.472"/>
+    <testcase classname="chrome.19" name="I should see 0.05 total stake amount15" time="0.72"/>
+  </testsuite>
+  <testsuite name="place_a_bet1" timestamp="2018-10-30T21:14:11" time="55.711" tests="0" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="91ba69f4448840c23646d9f4460023d4"/>
+      <property name="suiteName" value="Place a bet1"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+  </testsuite>
+</testsuites>

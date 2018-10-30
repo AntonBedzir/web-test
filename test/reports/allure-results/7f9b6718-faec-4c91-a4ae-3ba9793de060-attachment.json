@@ -1,0 +1,4 @@
+{
+    "using": "xpath",
+    "value": "//*[@id=\"betslip-footer\"]//div[@class=\"betslip-footer__to-return-price-container\"]"
+}

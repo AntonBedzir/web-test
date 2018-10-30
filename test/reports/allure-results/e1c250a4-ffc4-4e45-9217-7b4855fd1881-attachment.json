@@ -1,0 +1,4 @@
+{
+    "using": "xpath",
+    "value": "//div[@class=\"event\"]//a[@class=\"btmarket__name btmarket__name--featured\"]"
+}

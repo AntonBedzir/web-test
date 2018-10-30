@@ -1,0 +1,4 @@
+{
+    "using": "xpath",
+    "value": "//div[@data-test-id=\"events-group\"][1]//article[1]/main/a"
+}
